@@ -34,7 +34,7 @@ Generate only the tweet text, no other commentary.
 
 Return the tweet in JSON format like: {"text": "your tweet here"}`;
 
-// ../../node_modules/zod/lib/index.mjs
+// ../../../node_modules/zod/lib/index.mjs
 var util;
 (function(util2) {
   util2.assertEqual = (val) => val;
