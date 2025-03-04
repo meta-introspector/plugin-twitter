@@ -19,9 +19,9 @@
         "dist"
     ],
     "dependencies": {
-        "@elizaos/core": "workspace:0.25.6-alpha.1",
+        "@elizaos/core": "workspace:",
         "@types/hapi__shot": "^6.0.0",
-        "agent-twitter-client": "0.0.18",
+        "agent-twitter-client": "workspace:*",
         "tsup": "8.3.5"
     },
     "devDependencies": {
