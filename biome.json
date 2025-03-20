@@ -32,10 +32,6 @@
     }
   },
   "files": {
-    "ignore": [
-      "dist/**/*",
-      "extra/**/*",
-      "node_modules/**/*"
-    ]
+    "ignore": ["dist/**/*", "extra/**/*", "node_modules/**/*"]
   }
 }
